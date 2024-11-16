@@ -1,0 +1,190 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "AprojectContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Aprojectbackend",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[tActCategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tActDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tActEventReg]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tActImgData]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tActInformation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tAdvertisement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tCart]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tDonation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tForums]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tHobby]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tHobbyPrefer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tKeyword]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tLight]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tManager]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tMatch]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tOrderDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tPermission]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tPostReplies]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tPosts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tProdCategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tProduct]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tQuestionAnswer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tQuestionType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tRegDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tServiceDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tStockDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tTraits]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tTraitsPrefer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tUpcomingAct]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tUser]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tUserHobby]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tUserLike]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tUserPrefer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tUserState]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tUserTraits]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
