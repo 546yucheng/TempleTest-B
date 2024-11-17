@@ -97,6 +97,10 @@
             public string ReturnCode { get; set; }
             public string ReturnMessage { get; set; }
             public ResponseInfoDto Info { get; set; }
+            // 新增 OrderId
+            public int OrderId { get; set; }
+            public decimal Amount { get; set; }
+            public string Currency { get; set; }
         }
 
         public class ResponseInfoDto
@@ -104,6 +108,8 @@
             public ResponsePaymentUrlDto PaymentUrl { get; set; }
             public long TransactionId { get; set; }
             public string PaymentAccessToken { get; set; }
+            // 新增 Amount 和 Currency
+            
         }
 
         public class ResponsePaymentUrlDto
